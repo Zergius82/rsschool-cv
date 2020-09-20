@@ -5,7 +5,7 @@
   * *github*: <https://github.com/zergius82>
 
 ## Summary
-Per aspera ad astra
+"Per aspera ad astra".
 
 ## Skills
 * JavaScript base knowledge
